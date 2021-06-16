@@ -1,0 +1,32 @@
+0001    forEach()  and Iterable
+
+0002    default  static  and Interface
+
+0003  Runnable Interface
+
+0004  Stream  Sequential and Parallel
+
+0005  How to reverse a String in java? Can you write a program without using any java inbuilt methods?
+        -- Using for loop
+        -- Using recursion
+        -- Using StringBuffer
+
+0006  How to swap two numbers without using third variable
+
+0007  Check the given number is a Prime number or not
+
+0008  FibonacciSeries
+
+0008  FibonacciSeries with Recursion
+
+0009  Factorial example
+
+0009a Factorial recursive example
+
+0010  Finding odd number
+
+0011  Removing white spaces
+
+0012  trim() and strip()
+
+0013  Deadlock example
