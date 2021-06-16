@@ -21,7 +21,8 @@ public class Qus_0004_Stream_Sequential_Parallel{
         Stream<Integer> highNums = parallelStream.filter( p -> p > 90);
         highNums.forEach( x -> System.out.println("High nums Parallel --  " +x));
 
-        System.out.println("+++++++++++++++++++++++++++++++++++++");
+        System.out.println("#+111111111111111111111");
+        System.out.println("ccccccccccccccccccccc");
 
     }
 }
