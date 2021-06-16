@@ -22,7 +22,7 @@ public class Qus_0004_Stream_Sequential_Parallel{
         highNums.forEach( x -> System.out.println("High nums Parallel --  " +x));
 
         System.out.println("#+111111111111111111111");
-        System.out.println("child branch");
+        System.out.println("child branch- new update");
 
     }
 }
